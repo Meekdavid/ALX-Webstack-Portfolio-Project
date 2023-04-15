@@ -1,7 +1,7 @@
-# My Third Party Integration Implementations
+# ALX Webstack Portfolio Project
 
 ## Description
-This repo shows all the implementations I have designed and built to integrate third party merchants with any organization. I have integrated both SOAP and REST APIs using technologies such as restsharp, C#, WSDL, XML and JSON.
+This repo shows the code base of an API for driving a School System Efficiently. All modules and profiles neccessary to facilate a smooth running of a school system are provided, it is meant to enhace the seamless management of typical and any scchool system.
 
 ## Bugs
 
