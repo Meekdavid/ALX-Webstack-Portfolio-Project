@@ -1,0 +1,39 @@
+2023-02-20 19:32:59.847 +01:00 [Information] Logger is working
+2023-02-20 19:33:01.613 +01:00 [Information] User profile is available. Using '"C:\Users\David Mboko\AppData\Local\ASP.NET\DataProtection-Keys"' as key repository and Windows DPAPI to encrypt keys at rest.
+2023-02-20 19:33:02.171 +01:00 [Information] Application started. Press Ctrl+C to shut down.
+2023-02-20 19:33:02.172 +01:00 [Information] Hosting environment: "Development"
+2023-02-20 19:33:02.172 +01:00 [Information] Content root path: "C:\Users\David Mboko\Desktop\Git\LampNet-Assignment\catalogueService"
+2023-02-20 19:33:02.214 +01:00 [Information] Request starting HTTP/2.0 GET https://localhost:44388/swagger/index.html  
+2023-02-20 19:33:02.649 +01:00 [Information] Request finished in 439.4857ms 200 text/html;charset=utf-8
+2023-02-20 19:33:02.670 +01:00 [Information] Request starting HTTP/2.0 GET https://localhost:44388/_framework/aspnetcore-browser-refresh.js  
+2023-02-20 19:33:02.674 +01:00 [Information] Request finished in 4.9207ms 200 application/javascript; charset=utf-8
+2023-02-20 19:33:02.680 +01:00 [Information] Request starting HTTP/2.0 GET https://localhost:44388/_vs/browserLink  
+2023-02-20 19:33:02.715 +01:00 [Information] Request finished in 35.437ms 200 text/javascript; charset=UTF-8
+2023-02-20 19:33:02.905 +01:00 [Information] Request starting HTTP/2.0 GET https://localhost:44388/swagger/v1/swagger.json  
+2023-02-20 19:33:03.090 +01:00 [Information] Request finished in 185.6685ms 200 application/json;charset=utf-8
+2023-02-20 19:35:06.669 +01:00 [Information] Logger is working
+2023-02-20 19:35:10.848 +01:00 [Information] User profile is available. Using '"C:\Users\David Mboko\AppData\Local\ASP.NET\DataProtection-Keys"' as key repository and Windows DPAPI to encrypt keys at rest.
+2023-02-20 19:35:11.264 +01:00 [Information] Application started. Press Ctrl+C to shut down.
+2023-02-20 19:35:11.265 +01:00 [Information] Hosting environment: "Development"
+2023-02-20 19:35:11.265 +01:00 [Information] Content root path: "C:\Users\David Mboko\Desktop\Git\LampNet-Assignment\catalogueService"
+2023-02-20 19:35:11.306 +01:00 [Information] Request starting HTTP/2.0 GET https://localhost:44388/swagger/index.html  
+2023-02-20 19:35:11.632 +01:00 [Information] Request finished in 331.0888ms 200 text/html;charset=utf-8
+2023-02-20 19:35:11.684 +01:00 [Information] Request starting HTTP/2.0 GET https://localhost:44388/_vs/browserLink  
+2023-02-20 19:35:11.684 +01:00 [Information] Request starting HTTP/2.0 GET https://localhost:44388/_framework/aspnetcore-browser-refresh.js  
+2023-02-20 19:35:11.691 +01:00 [Information] Request finished in 6.4186ms 200 application/javascript; charset=utf-8
+2023-02-20 19:35:11.707 +01:00 [Information] Request finished in 22.7629ms 200 text/javascript; charset=UTF-8
+2023-02-20 19:35:11.795 +01:00 [Information] Request starting HTTP/2.0 GET https://localhost:44388/swagger/v1/swagger.json  
+2023-02-20 19:35:11.962 +01:00 [Information] Request finished in 167.1247ms 200 application/json;charset=utf-8
+2023-02-20 19:36:09.308 +01:00 [Information] Logger is working
+2023-02-20 19:36:12.995 +01:00 [Information] User profile is available. Using '"C:\Users\David Mboko\AppData\Local\ASP.NET\DataProtection-Keys"' as key repository and Windows DPAPI to encrypt keys at rest.
+2023-02-20 19:36:13.387 +01:00 [Information] Application started. Press Ctrl+C to shut down.
+2023-02-20 19:36:13.388 +01:00 [Information] Hosting environment: "Development"
+2023-02-20 19:36:13.388 +01:00 [Information] Content root path: "C:\Users\David Mboko\Desktop\Git\LampNet-Assignment\catalogueService"
+2023-02-20 19:36:13.442 +01:00 [Information] Request starting HTTP/2.0 GET https://localhost:44388/swagger/index.html  
+2023-02-20 19:36:13.774 +01:00 [Information] Request finished in 334.6869ms 200 text/html;charset=utf-8
+2023-02-20 19:36:13.775 +01:00 [Information] Request starting HTTP/2.0 GET https://localhost:44388/_framework/aspnetcore-browser-refresh.js  
+2023-02-20 19:36:13.775 +01:00 [Information] Request starting HTTP/2.0 GET https://localhost:44388/_vs/browserLink  
+2023-02-20 19:36:13.791 +01:00 [Information] Request finished in 16.1146ms 200 application/javascript; charset=utf-8
+2023-02-20 19:36:13.834 +01:00 [Information] Request finished in 59.3155ms 200 text/javascript; charset=UTF-8
+2023-02-20 19:36:13.923 +01:00 [Information] Request starting HTTP/2.0 GET https://localhost:44388/swagger/v1/swagger.json  
+2023-02-20 19:36:14.126 +01:00 [Information] Request finished in 202.3156ms 200 application/json;charset=utf-8
